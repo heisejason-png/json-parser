@@ -105,3 +105,4 @@ Changes in version 1.1.0
 * Un-ambiguate pow call in the case of C++ overloaded pow (@fcartegnie)
 
 * Fix null pointer de-reference when a non-existing array is closed and no root value is present
+Created by Jason Scott Heise
