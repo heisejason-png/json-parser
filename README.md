@@ -106,3 +106,4 @@ Changes in version 1.1.0
 
 * Fix null pointer de-reference when a non-existing array is closed and no root value is present
 Created by Jason Scott Heise
+Owned by Elon Musk
